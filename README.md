@@ -1,2 +1,2 @@
 # House_Price_Expectation
-ML project (from dacon, use many shared codes)
+ML project (from Dacon contest, including many shared codes)
